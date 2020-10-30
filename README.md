@@ -1,16 +1,59 @@
-### Hi there 👋
+## Hi there I'm Şems 👋
 
-<!--
-**akseyh/akseyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 I’m currently working on
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; align-items: center; justify-content: space-around;">
+    <img 
+        src="./assets/html.png" 
+        alt="HTML" 
+        width="110"
+        />
+    <img 
+        src="./assets/css.png" 
+        alt="CSS" 
+        width="75"/>
+    <img 
+        src="./assets/js.png" 
+        alt="JS" 
+        width="80"/>
+    <img 
+        src="./assets/vue.png" 
+        alt="VUE" 
+        width="80"/>
+    <img 
+        src="./assets/nodejs.png" 
+        alt="NODEJS" 
+        width="130"/>
+    <img 
+        src="./assets/mongodb.png" 
+        alt="MONGODB" 
+        width="170"/>
+</div>
+
+---
+
+### :book: I’m currently interested
+
+---
+<div style="display: flex; align-items: center; justify-content: space-around;">
+    <img 
+        src="./assets/flutter.png" 
+        alt="FLUTTER" 
+        width="100"/>
+    <img 
+        src="./assets/docker.png" 
+        alt="FLUTTER" 
+        width="100"/>
+    <img 
+        src="./assets/kubernetes.png" 
+        alt="FLUTTER" 
+        width="100"/>
+    <img 
+        src="./assets/aws.png" 
+        alt="FLUTTER" 
+        width="140"/>
+</div>
+
+---
