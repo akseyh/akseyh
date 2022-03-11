@@ -2,6 +2,8 @@
 
 ![Şems Yılmaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akseyh&show_icons=true)
 
+![Code Wars Badge](https://www.codewars.com/users/akseyh/badges/large)
+
 #### :rocket: I’m currently working on
 [![](https://img.shields.io/badge/javascript-1A1918?style=for-the-badge&logo=javascript)]()
 [![](https://img.shields.io/badge/node.js-1A1918?style=for-the-badge&logo=node.js)]()
