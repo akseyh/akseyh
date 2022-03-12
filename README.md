@@ -1,7 +1,5 @@
 ## Hi there I'm Şems 👋
 
-![Şems Yılmaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akseyh&show_icons=true)
-
 ![Code Wars Badge](https://www.codewars.com/users/akseyh/badges/large)
 
 #### :rocket: I’m currently working on
